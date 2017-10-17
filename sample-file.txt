@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line from local system
+=======
+Added this line from Github
+>>>>>>> 078b59630c0359dd90b891b3fda7c06c82682aaa
